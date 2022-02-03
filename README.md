@@ -86,6 +86,5 @@ else if (mySelect === 3 && cpuSelect === 1) {
         }
     });
 }
-------
 
 
