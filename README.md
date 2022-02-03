@@ -85,7 +85,7 @@ else if (mySelect === 3 && cpuSelect === 1) {
           score: prevState.score + 1
         }
     });
-}```
-
+}
+------
 
 
